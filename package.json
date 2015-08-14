@@ -13,6 +13,7 @@
     "browserify": "^11.0.1",
     "coffee-script": "^1.9.3",
     "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
     "lodash": "^3.10.1",
     "reactify": "^1.1.1",
     "vinyl-source-stream": "^1.1.0",
